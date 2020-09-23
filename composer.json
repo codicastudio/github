@@ -1,10 +1,10 @@
 {
-    "name": "codicastudio/github",
+    "name": "codica-studio/github",
     "description": "A random Codica Studio package.",
     "keywords": [
         ""
     ],
-    "homepage": "https://github.com/codicastudio/github",
+    "homepage": "https://github.com/codica-studio/github",
     "license": "MIT",
     "authors": [
         {
