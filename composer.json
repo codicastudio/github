@@ -1,5 +1,5 @@
 {
-    "name": "codica-studio/github",
+    "name": "codicastudio/github",
     "description": "A random Codica Studio package.",
 
     "homepage": "https://github.com/codicastudio/github",
@@ -27,7 +27,7 @@
         "graham-campbell/analyzer": "^3.0",
         "graham-campbell/testbench": "^5.4",
         "lcobucci/jwt": "^3.3",
-        "mockery/mockery": "^1.3.1",
+        "mockery/mockery": "^1.1",
         "phpunit/phpunit": "^9.0",
         "php-http/guzzle6-adapter": "^1.1 || ^2.0"
     },
@@ -54,6 +54,6 @@
             ]
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
