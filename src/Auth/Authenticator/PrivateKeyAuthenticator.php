@@ -24,7 +24,7 @@ use Lcobucci\JWT\Signer\Rsa\Sha256;
 /**
  * This is private key github authenticator.
  *
- * @author Pavel Zhytomirsky <r3volut1oner@gmail.com>
+ * @author Pavel Zhytomirsky 
  */
 final class PrivateKeyAuthenticator extends AbstractAuthenticator
 {
